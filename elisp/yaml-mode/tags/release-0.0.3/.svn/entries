@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="62"
+   name=""
+   committed-date="2007-01-25T06:51:01.940378Z"
+   url="http://svn.clouder.jp/repos/public/yaml-mode/tags/release-0.0.3"
+   last-author="yoshiki"
+   kind="dir"
+   uuid="c9fe89ab-c918-0410-b9be-faebe9bd2962"
+   repos="http://svn.clouder.jp/repos/public"
+   revision="75"/>
+<entry
+   committed-rev="62"
+   name="yaml-mode.el"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2007-01-25T06:51:01.940378Z"
+   checksum="aab470472ce059497d7bdbdf29dc2cbc"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="62"
+   name="Changes"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2007-01-25T06:51:01.940378Z"
+   checksum="226fe626a160ba18b423b8475ad8243a"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="62"
+   name="Makefile"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2007-01-25T06:51:01.940378Z"
+   checksum="78aa4eb0d1ad9195f6b45aa5e157440e"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="62"
+   name="README"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2007-01-25T06:51:01.940378Z"
+   checksum="02b333b374d35a624c9ea31201c1f054"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+</wc-entries>

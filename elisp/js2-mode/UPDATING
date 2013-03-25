@@ -1,0 +1,11 @@
+First:
+  svn up http://js2-mode.googlecode.com/svn/trunk/js2-mode-read-only
+
+Then:
+Byte-compile the file by doing the following, in a lisp-interaction-mode
+buffer such as *scratch* (since you can't run Aquamacs in batch-mode AFAICT):
+  (load-file
+    (expand-file-name
+      "~/.emacs.d/elisp/js2-mode/js2-mode-read-only/js2-build.el"))
+
+  (js2-build-js2-mode)

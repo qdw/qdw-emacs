@@ -1,0 +1,7 @@
+# Don't commit transitory state that should remain private.
+auto-save-list
+desktop
+history
+tramp
+url
+

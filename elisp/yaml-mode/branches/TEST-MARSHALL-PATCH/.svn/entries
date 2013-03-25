@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-01-25T06:04:59.087336Z"
+   url="http://svn.clouder.jp/repos/public/yaml-mode/branches/TEST-MARSHALL-PATCH"
+   last-author="yoshiki"
+   kind="dir"
+   uuid="c9fe89ab-c918-0410-b9be-faebe9bd2962"
+   repos="http://svn.clouder.jp/repos/public"
+   revision="75"/>
+<entry
+   committed-rev="56"
+   name="yaml-mode.el"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2007-01-25T06:04:59.087336Z"
+   checksum="5f7aed21ba07caa66afaa8bc1ee0e145"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="15"
+   name="Changes"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2006-08-25T11:55:00.441563Z"
+   checksum="96584c1bcc0c197eb1eb66b3b7392ead"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Makefile"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2006-07-17T16:40:31.167987Z"
+   checksum="ccc676bd2075d7e8af467f47cf735bc7"
+   last-author="root"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+<entry
+   committed-rev="16"
+   name="README"
+   text-time="2007-04-05T22:46:21.000000Z"
+   committed-date="2006-08-25T11:56:43.846994Z"
+   checksum="fc49104a5a4200c52b2662e35d79898a"
+   last-author="yoshiki"
+   kind="file"
+   prop-time="2007-04-05T22:46:21.000000Z"/>
+</wc-entries>

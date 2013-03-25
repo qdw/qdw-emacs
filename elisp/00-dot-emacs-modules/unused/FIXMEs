@@ -1,0 +1,8 @@
+;; FIXME:  Figure out why M-s doesn't work right in text buffers, and fix;
+;; FIXME:  Move all mode-specific requires to using something else... autoload?
+;; FIXME:  Make man's "near point" functionality Respect::Perl::Modules.
+;; FIXME:  Add feature:  When I open certain files (e.g. ~/Blog), do
+;; (end-of-buffer)
+;; FIXME:  Add a hook to run (dirs) after every shell command
+;; (because emacs's not being able to figure out the working dir is inexcusably
+;; lame)

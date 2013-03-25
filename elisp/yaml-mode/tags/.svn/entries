@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="62"
+   name=""
+   committed-date="2007-01-25T06:51:01.940378Z"
+   url="http://svn.clouder.jp/repos/public/yaml-mode/tags"
+   last-author="yoshiki"
+   kind="dir"
+   uuid="c9fe89ab-c918-0410-b9be-faebe9bd2962"
+   repos="http://svn.clouder.jp/repos/public"
+   revision="75"/>
+<entry
+   name="release-0.0.2"
+   kind="dir"/>
+<entry
+   name="release-0.0.3"
+   kind="dir"/>
+</wc-entries>

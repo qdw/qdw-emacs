@@ -1,0 +1,15 @@
+;; Object desire/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "desire/"
+  :tables (list 
+   (semanticdb-table "desire.el"
+    :major-mode 'emacs-lisp-mode
+    :tags '(("desire-load-path" variable (:user-visible-flag t) nil [1271 1376]) ("desire-extension" variable (:user-visible-flag t :default-value ".ecf") nil [1378 1476]) ("desire-loaddefs" variable (:user-visible-flag t :default-value "loaddefs") nil [1478 1662]) ("desire-desire" variable (:user-visible-flag t :default-value "desire") nil [1664 1919]) ("desire-execute" variable (:user-visible-flag t :default-value "execute") nil [1921 2180]) ("desirable" variable nil nil [2182 2331]) ("desired" function (:arguments ("package")) nil [2333 2588]) ("desiredp" function (:arguments ("package")) nil [2590 2945]) ("desire" function (:arguments ("package" "&optional" "fname")) nil [2947 6139]) ("desire-load-file" function (:arguments ("dir" "file")) nil [6141 6304]) ("desire-process-directory" function (:arguments ("dir")) nil [6306 7602]) ("desire-directory-file-prefixes" function (:arguments ("dir")) nil [7608 8279]) ("desire-readable-regular-file-p" function (:arguments ("f")) nil [8281 8467]) ("desire" package nil nil [8469 8486]))
+    :file "desire.el"
+    :pointmax 8487
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre3"
+  :semanticdb-version "2.0pre3"
+  )

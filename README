@@ -1,0 +1,13 @@
+Quinn's ~/.emacs.d
+------------------
+Requires you to have a ~/.emacs that reads
+    (load-file "~/.emacs.d/.emacs")
+
+Tested on
+- emacs 24.2.1 on OS X 10.7
+    - Cocoa mode
+    - character-based mode
+- emacs 23.1.1 on Scientific Linux 6.1
+    - character-based mode only
+    
+Eventually I should make this a sub-repo of my dotfiles repo.

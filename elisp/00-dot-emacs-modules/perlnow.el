@@ -1,0 +1,6 @@
+;; (setq perlnow-minimum-perl-version "v5.8" t)
+;; (setq perlnow-pm-location "/home/quinn/lib")
+;; (setq perlnow-test-policy-dot-definition "incspot")
+;; (setq perlnow-test-policy-naming-style "hyphenized")
+;; (setq perlnow-test-policy-test-location "~/t")
+;; (global-set-key "\M-r"  'perlnow-run)
